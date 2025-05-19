@@ -2,7 +2,7 @@
 
 ## Integrantes del equipo de trabajo
 Melina Belén Bruvera
-Alvaro Fernando Galiño Velez
+Alvaro Fernando Galiño Velez feature-alvaro
 Flavia Guadalupe Sicchar Gomez
 Clarisa Rebeca Bustos
 
