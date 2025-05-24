@@ -12,3 +12,9 @@ Hola, por acá Flavia - Integrante del Grupo B, practicando para el desarrollo d
 
 
 
+Presentación de participantes:
+
+
+Buenos días mi nombre es *Eduardo Damián Riveros*. Tengo 32 años. Vivo en en Salta.
+Soy recursante de la materia misma de la cohorte 2022. Mis habilidades se orientan más al diseño en general pero también tengo una base en programación   
+Espero que este breve presentación sea a gusto de ustedes. Gracias
