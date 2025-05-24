@@ -1,10 +1,10 @@
 # Grupo B - Proyecto integrador 1
 
-## Integrantes del equipo de trabajo
-Melina Belén Bruvera
-Alvaro Fernando Galiño Velez feature-alvaro
-Flavia Guadalupe Sicchar Gomez
-Clarisa Rebeca Bustos
+## Uso de ramas en el proyecto
+- La rama MAIN solo se utiliza para subir la versión funcional dedel ambiente de producción.
+- La rama DEVELOP se utiliza para subir la versión funciona del ambiente de desarrollo
+- Debes crear una nueva rama a partir de la rama DEVELOP (default).
+- La rama debe tener esta sintaxis: feature/nombre-apellido
 
 Hola grupo
 
