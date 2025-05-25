@@ -17,3 +17,6 @@ Soy recursante de la materia misma de la cohorte 2022. Mis habilidades se orient
 Espero que este breve presentación sea a gusto de ustedes. Gracias
 
 Buenas tardes amplio mi nombre es *Flavia G. Sicchar Gomez* tengo 44 años. Me encanta aprender cosas nuevas y esta es un desafía, además me aconsejaron programación para ejercitar la mente. 
+
+Buenas noches, mi nombr es Alvaro Fernando Galiño Velez, tengo 43 años y vivo en Unquillo-Cordoba. Tengo alguna base minima de programacion tanto teorica como practica, pero aqui me encuentro dispuesto a aceptar el desafio de perfeccionar y acrecentar conocimientos!
+
